@@ -1,0 +1,11 @@
+root = true
+
+[*]
+charset = urf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# 将来项目直接copy这份过去就行，这是对项目经行规划的

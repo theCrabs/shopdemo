@@ -1,0 +1,14 @@
+#tabbar {
+    display: flex;
+    background-color: #f4f4f4;
+    box-shadow: 0 -1px 1px rgba(100, 100, 100, .1);
+    /* 固定到底部，宽度占满 */
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 99;
+}
+
+
+/* 使用字体图标 */
